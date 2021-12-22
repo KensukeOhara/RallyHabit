@@ -1,0 +1,20 @@
+.court{
+    height: 80px;
+    border-radius: 0rem;
+}
+.right_court{
+    position: relative;
+    top:-1px
+}
+hr{
+    position: relative;
+    top:-10px
+}
+#courtChange{
+    position: relative;
+    top:-1px
+}
+#submit_bt{
+    position: relative;
+    top:-1px
+}
